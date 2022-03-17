@@ -1,0 +1,35 @@
+body{
+    position: relative;
+}
+
+.form{
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 250px;
+    width: 350px;
+}
+
+.abc{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.button{
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+
+
+/* PROFILE IMAGE */
+
+#imageUpload{
+    width: 150px;
+    height: 150px;
+    margin-left : 25%;
+    border: 1px solid;
+    border-radius: 100px;
+}
